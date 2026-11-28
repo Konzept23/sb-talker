@@ -1,0 +1,20 @@
+{
+  "id": "/sb-talker/",
+  "name": "SB-Talker | Schulbegleitung (HPG)",
+  "short_name": "SB-Talker",
+  "description": "100 % lokale Offline-WebApp zur strukturierten Verlaufsdokumentation in der Schulbegleitung (HPG)",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#121820",
+  "theme_color": "#121820",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
